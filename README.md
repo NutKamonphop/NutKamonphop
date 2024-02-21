@@ -1,15 +1,10 @@
-👋 Hello World I'm Kamonphop
+👋 Hello 
 ===========================================================================================================================================
 ![](https://github.com/babynut-history/babynut-history/blob/main/Icons/header_1.png)
 
-* 🧐   ###
-* 💼   ###
-* 🎓   ###
-* 🌱   ###
-* 📚   ###
-* 💻   ###
-* ⛵   ###
-* ✍🏻   ###
+👋 Hi, I’m @themiddnight
+🌱 I’m currently learning web development
+📫 How to reach me: kamonphop.ch@gmail.com
 
 ### Skills 
 <p align="left">
