@@ -2,8 +2,8 @@
 ===========================================================================================================================================
 ![](https://github.com/babynut-history/babynut-history/blob/main/Icons/header_1.png)
 
-👋 Hi, I’m @themiddnight
-🌱 I’m currently learning web development
+👋 Hi, I’m nut <br>
+🌱 I’m currently learning web development <br>
 📫 How to reach me: kamonphop.ch@gmail.com
 
 ### Skills 
